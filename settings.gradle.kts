@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "OliverKi3"
 include(":app")
+include(":desktopApp")
